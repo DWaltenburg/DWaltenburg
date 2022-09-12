@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to use Git
 - 💞️ I’m open to collaborate on anything
 - 📫 You can reach me via E-mail at david@waltenburg.dk
+- Also, sorry for the mess in my repositories as I've recently dumped my files disorganised into GitHub
 
 <!---
 DWaltenburg/DWaltenburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
